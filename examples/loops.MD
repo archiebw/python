@@ -10,4 +10,23 @@ for item in dictionary:
 
     # reference value
     print dictionary[item]
+
+# enumeration
+items = [1, 10, 100]
+for item in enumerate(items):
+    print(item)
+
+# (0, 1)
+# (1, 10)
+# (2, 100)
+
+
+# enumeration with tuple unpacking
+items = [1, 10, 100]
+for index, value in enumerate(items):
+    print(f'index:{index}, value:{value}')
+# index:0, value:1
+# index:1, value:10
+# index:2, value:100
+
 ```
