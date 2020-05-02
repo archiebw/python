@@ -10,6 +10,4 @@
 
 [modules](https://github.com/archiebw/python/blob/master/examples/modules.MD)
 
-[scopes](https://github.com/archiebw/python/blob/master/examples/scopes.MD)
-
 [strings](https://github.com/archiebw/python/blob/master/examples/strings.MD)
