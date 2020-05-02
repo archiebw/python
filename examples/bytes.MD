@@ -16,3 +16,4 @@ data = string.encode('utf8')
 
 decoded = data.decode('utf8')
 ```
+

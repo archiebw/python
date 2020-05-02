@@ -3,7 +3,7 @@
 for item in items:
     pass
 
-
+# dictionary
 for item in dictionary:
     # reference key
     print(item)

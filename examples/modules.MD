@@ -12,6 +12,7 @@ def printHello():
     print('hello')
 
 
+# Check if module is executed as a script
 if __name__ == '__main__':
     printHello()
 
