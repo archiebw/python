@@ -10,4 +10,10 @@
 
 [modules](https://github.com/archiebw/python/blob/master/examples/modules.MD)
 
+[range](https://github.com/archiebw/python/blob/master/examples/range.MD)
+
+[set](https://github.com/archiebw/python/blob/master/examples/set.MD)
+
 [strings](https://github.com/archiebw/python/blob/master/examples/strings.MD)
+
+[tuples](https://github.com/archiebw/python/blob/master/examples/tuples.MD)
