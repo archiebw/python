@@ -20,13 +20,11 @@ tuple = ()
 # single element tuple
 tuple = (2,)
 
-
 # brackets can be ommited
 tuple = 1, 4, 5, 6
 
 def min_max(number):
     return min(number), max(number)    
-
 
 # unpacking tuple
  min, max = min_max([1, 5, 7, 8, 3])
