@@ -9,7 +9,17 @@ for item in dictionary:
     print(item)
 
     # reference value
-    print dictionary[item]
+    print(dictionary[item])
+
+# tuple unpacking
+for key, value in dictionary.items():
+    # reference key
+    print(key)
+
+    # reference value
+    print(value)
+
+
 
 # enumeration
 items = [1, 10, 100]
