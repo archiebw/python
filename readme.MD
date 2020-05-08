@@ -17,3 +17,5 @@
 [strings](https://github.com/archiebw/python/blob/master/examples/strings.MD)
 
 [tuples](https://github.com/archiebw/python/blob/master/examples/tuples.MD)
+
+[comprehensions](https://github.com/archiebw/python/blob/master/examples/comprehensions.MD)

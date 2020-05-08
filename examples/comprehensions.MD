@@ -19,9 +19,9 @@ s = [pow(number, 3) for number in numbers]
 
 # filtering
 
-# define predicate function
-def predication():
-    pass
+# define predicate function - return bool
+def predicate(item):
+    return True
 
 # call predicate function, (optionally transform result)
 [item for item in iterable if predicate(item)]
